@@ -1,0 +1,10 @@
+# Ignore all files
+
+
+# Only allow these files:
+!.gitignore
+!*.c
+!*.h
+!*.md
+!*.txt
+
